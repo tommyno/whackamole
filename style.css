@@ -99,7 +99,7 @@ button {
 
   50% {
     transform-origin: center;
-    transform: translateY(-100px);
+    transform: translateY(-160px);
     opacity: .2;
     -webkit-filter: invert(100%);
     filter: invert(100%);    

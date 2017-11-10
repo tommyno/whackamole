@@ -39,7 +39,7 @@
 
     // Avoid multiple hits
     if (this.parentNode.classList.contains('up')) {
-      new Audio('assets/bonk.mp3').play();
+      new Audio('assets/kick.wav').play();
       score++;
       this.parentNode.classList.remove('up');
       this.parentNode.classList.add('hit');
